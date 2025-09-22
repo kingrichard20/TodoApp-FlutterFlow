@@ -251,7 +251,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                           .labelMedium
                                           .fontStyle,
                                     ),
-                                hintText: 'First Name...',
+                                hintText: 'First name...',
                                 hintStyle: FlutterFlowTheme.of(context)
                                     .labelLarge
                                     .override(
@@ -380,7 +380,7 @@ class _OnboardingWidgetState extends State<OnboardingWidget> {
                                           .labelMedium
                                           .fontStyle,
                                     ),
-                                hintText: 'Last Name...',
+                                hintText: 'Last name...',
                                 hintStyle: FlutterFlowTheme.of(context)
                                     .labelLarge
                                     .override(
